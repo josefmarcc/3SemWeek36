@@ -8,11 +8,11 @@ All exercises are completed.
 
 * Exercise 1
 
-Source code:	[Cookie]()
+Source code:	[Cookie](https://github.com/josefmarcc/3SemWeek36/tree/master/CookieOpgave)
 
 * Exercise 2 
 
-Source code:	[CookieDemo]()
+Source code:	[CookieDemo](https://github.com/josefmarcc/3SemWeek36/tree/master/HTTPWeek2Opgave7)
 
 
 Link to website https://wwww.segatos.com
