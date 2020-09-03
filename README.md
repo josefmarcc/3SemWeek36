@@ -15,6 +15,6 @@ Source code:	[Cookie]()
 Source code:	[CookieDemo]()
 
 
-Link to website [Click here](wwww.segatos.com)
+Link to website https://wwww.segatos.com
 
 
